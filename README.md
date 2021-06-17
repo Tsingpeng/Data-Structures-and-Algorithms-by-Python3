@@ -15,7 +15,7 @@ There're complete notes writen in Chinese. (I'll rewrite the notes in English ve
 
 ## 数据结构与算法（Python3.X版本）
 
-在该项目中，我使用Python3.X来得到必要的数据结构（链表、数组、队列、栈、优先队列、堆、哈希表、二叉树、二叉搜索树、图、广度优先搜索、深度优先搜索），排序算法以及其他算法（比如TOP-K、N皇后、以及其他的LeetCode问题）
+在该项目中，我使用Python3.X来得到必要的数据结构（链表、数组、队列、栈、优先队列、堆、哈希表、二叉树、二叉搜索树、图、广度优先搜索、深度优先搜索），各种排序算法以及其他算法（比如TOP-K、N皇后、以及其他的LeetCode问题）
 
 在文件中有详尽的中文注释（之后会重写英文注释版本）
 
