@@ -1,6 +1,6 @@
 ## Data Structures and Algorithms Written by Python3.X
 
-In this project, I use Python3.X to get essential data structures(e.g. linked list, array, queue, stack, priority queue, heap, hash map, BST, BBST, graph, BFS, DFS,), sorting algorithms and other algorithms(like TOP-K, N_queens, and other questions of LeetCode).
+In this project, I use Python3.X to get essential data structures(eg linked list, array, queue, stack, priority queue, heap, hash map, BST, BBST, graph, BFS, DFS,), sorting algorithms and other algorithms(like TOP-K, N_queens, and other questions of LeetCode).
 
 There're complete notes written in Chinese. (I'll rewrite the notes in English ver. later)
 
